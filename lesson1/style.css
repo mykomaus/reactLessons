@@ -1,12 +1,14 @@
-table, th, td {
-    border: 1px solid;
-    border-collapse: collapse;
-  }
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
 
-  .red_background {
-    background-color: red;
-  }
+.red_background {
+  background-color: red;
+}
 
-  .yellow_background {
-    background-color: yellow;
-  }
+.yellow_background {
+  background-color: yellow;
+}
