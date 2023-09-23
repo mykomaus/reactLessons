@@ -1,0 +1,12 @@
+.selected {
+  background-color: mediumseagreen;
+  font-weight: bold;
+}
+.default {
+  background-color: transparent;
+}
+
+.base {
+  border: 1px solid;
+  border-color: black;
+}

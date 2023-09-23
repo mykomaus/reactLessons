@@ -1,0 +1,13 @@
+table {
+  border: 1px solid;
+  border-color: black;
+  border-collapse: collapse;
+  margin: 100px;
+  width: 240px;
+}
+.medium {
+  border-width: 10px;
+}
+.full {
+  border-width: 20px;
+}
