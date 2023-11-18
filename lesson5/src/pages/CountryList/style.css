@@ -1,0 +1,26 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  margin-top: 56px;
+  margin-left: 32px;
+}
+
+.list-item {
+  border-left: 10px solid #a3c3fa;
+  margin: 10px 0;
+  width: 350px;
+
+  padding-left: 6px;
+  transition: transform 0.3s ease;
+  display: flex;
+  flex-direction: row;
+}
+
+.list-item:hover {
+  transform: scale(1.05);
+}
+
+.title {
+  width: 300px;
+}
