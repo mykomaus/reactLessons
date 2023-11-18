@@ -59,7 +59,7 @@ export const Country = () => {
       </button>
       <h1>{country[0].translations[lang].official}</h1>
       <table>
-        <tbody>{renderTable(country)}</tbody>
+        <tbody>{renderTable(country[0])}</tbody>
       </table>
     </div>
   );
